@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "SLS",
+    "PPP"
+  ],
+  "key":
+  {
+    "P":{"item": "projectplastic:resource", "data": 12},
+    "S":{"item": "projectplastic:resource", "data": 4},
+    "L":{"item": "minecraft:leather_leggings"}
+  },
+  "result":
+  {
+    "item": "projectplastic:kevlarpants",
+    "count": 1
+  }
+}

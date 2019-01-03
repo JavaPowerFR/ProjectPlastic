@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "key":
+  {
+    "S":{"item": "projectplastic:resource", "data":4}
+  },
+  "result":
+  {
+    "item": "projectplastic:resource",
+    "count": 1,
+    "data": 12
+  }
+}

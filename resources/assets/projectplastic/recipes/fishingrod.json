@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  S",
+    " SP",
+    "S P"
+  ],
+  "key":
+  {
+    "P":{"item": "projectplastic:resource", "data": 4},
+    "S":{"item": "minecraft:stick"}
+  },
+  "result":
+  {
+    "item": "minecraft:fishing_rod",
+    "count": 1
+  }
+}

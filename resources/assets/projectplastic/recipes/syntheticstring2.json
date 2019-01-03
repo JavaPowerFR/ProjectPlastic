@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group":"projectplastic:resouresynstring",
+  "ingredients":
+  [
+    {"item": "projectplastic:resource", "data": 12}
+  ],
+  "result":
+  {
+    "item": "projectplastic:resource",
+    "count": 4,
+    "data": 4
+  }
+}

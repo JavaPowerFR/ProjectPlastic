@@ -1,0 +1,15 @@
+{
+    "forge_marker": 1,
+    "defaults":
+    {
+        "model": "projectplastic:trampoline"
+    },
+    "variants":
+    {
+        "normal":
+        {
+            "model": "projectplastic:trampoline",
+            "transform": "forge:default-block"
+        }
+    }
+}

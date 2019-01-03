@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PCP",
+    "PFP",
+    "PEP"
+  ],
+  "key":
+  {
+    "P":{"item": "projectplastic:plasticblock"},
+    "C":{"item": "projectplastic:resource", "data": 5},
+    "F":{"item": "minecraft:furnace"},
+    "E":{"item": "projectplastic:latexextractor"}
+  },
+  "result":
+  {
+    "item": "projectplastic:extractingfurnace",
+    "count": 1
+  }
+}

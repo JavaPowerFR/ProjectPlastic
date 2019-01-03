@@ -1,0 +1,17 @@
+{
+    "forge_marker": 1,
+    "defaults":
+    {
+        "model": "projectplastic:extractingfurnace"
+    },
+    "variants":
+    {
+        "dir=east":  { "model": "projectplastic:extractingfurnace", "y": 90},
+        "dir=south":  { "model": "projectplastic:extractingfurnace", "y": 180},
+        "dir=west":  { "model": "projectplastic:extractingfurnace", "y": 270},
+        "dir=north":  { "model": "projectplastic:extractingfurnace"},
+        "dir=up":  { "model": "projectplastic:extractingfurnace"},
+        "dir=down":  { "model": "projectplastic:extractingfurnace"},
+        "normal":{"model": "projectplastic:extractingfurnace", "transform": "forge:default-block"}
+    }
+}

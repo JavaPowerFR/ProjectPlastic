@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "RLR",
+    "GGG"
+  ],
+  "key":
+  {
+    "G":{"item": "minecraft:glowstone_dust"},
+    "I":{"item": "minecraft:iron_ingot"},
+    "R":{"item": "minecraft:redstone"},
+    "L":{"item": "minecraft:lava_bucket"}
+  },
+  "result":
+  {
+    "item": "projectplastic:resource",
+    "count": 1,
+    "data": 10
+  }
+}

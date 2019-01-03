@@ -1,0 +1,17 @@
+{
+    "forge_marker": 1,
+    "defaults":
+    {
+        "model": "projectplastic:rfextractingfurnace"
+    },
+    "variants":
+    {
+        "dir=east":  { "model": "projectplastic:rfextractingfurnace", "y": 90},
+        "dir=south":  { "model": "projectplastic:rfextractingfurnace", "y": 180},
+        "dir=west":  { "model": "projectplastic:rfextractingfurnace", "y": 270},
+        "dir=north":  { "model": "projectplastic:rfextractingfurnace"},
+        "dir=up":  { "model": "projectplastic:rfextractingfurnace"},
+        "dir=down":  { "model": "projectplastic:rfextractingfurnace"},
+        "normal":{"model": "projectplastic:rfextractingfurnace", "transform": "forge:default-block"}
+    }
+}

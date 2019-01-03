@@ -1,0 +1,19 @@
+{
+    "parent": "minecraft:block/cube",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, 135, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        }
+    },
+    "textures": {
+        "particle": "projectplastic:blocks/plainplastic",
+        "down": "projectplastic:blocks/plainplastic",
+        "up": "projectplastic:blocks/plainplastic",
+        "north": "projectplastic:blocks/microwaveoven1",
+        "east": "projectplastic:blocks/plainplastic",
+        "south": "projectplastic:blocks/plainplastic",
+        "west": "projectplastic:blocks/plainplastic"
+    }
+}

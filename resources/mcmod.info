@@ -1,0 +1,16 @@
+[
+{
+  "modid": "projectplastic",
+  "name": "Project Plastic",
+  "description": "Plastic Craft Rebuilded !",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["java_power"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

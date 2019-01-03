@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group":"projectplastic:resourceball",
+  "ingredients":
+  [
+    {"item": "projectplastic:plasticblock"}
+  ],
+  "result":
+  {
+    "item": "projectplastic:resource",
+    "count": 4,
+    "data": 0
+  }
+}

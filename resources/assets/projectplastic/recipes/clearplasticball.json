@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":
+  [
+    {"item": "projectplastic:resource", "data": 0}
+  ],
+  "result":
+  {
+    "item": "projectplastic:resource",
+    "count": 1,
+    "data": 1
+  }
+}

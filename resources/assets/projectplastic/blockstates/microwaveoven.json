@@ -1,0 +1,24 @@
+{
+    "forge_marker": 1,
+    "defaults":
+    {
+        "model": "projectplastic:microwaveoven"
+    },
+    "variants":
+    {
+        "dir=east,isactiv=false":  { "model": "projectplastic:microwaveoven", "y": 90},
+        "dir=east,isactiv=true":  { "model": "projectplastic:microwaveoven1", "y": 90},
+        "dir=south,isactiv=false":  { "model": "projectplastic:microwaveoven", "y": 180},
+        "dir=south,isactiv=true":  { "model": "projectplastic:microwaveoven1", "y": 180},
+        "dir=west,isactiv=false":  { "model": "projectplastic:microwaveoven", "y": 270},
+        "dir=west,isactiv=true":  { "model": "projectplastic:microwaveoven1", "y": 270},
+        "dir=north,isactiv=false":  { "model": "projectplastic:microwaveoven"},
+        "dir=north,isactiv=true":  { "model": "projectplastic:microwaveoven1"},
+        "dir=up,isactiv=false":  { "model": "projectplastic:microwaveoven"},
+        "dir=up,isactiv=true":  { "model": "projectplastic:microwaveoven1"},
+        "dir=down,isactiv=false":  { "model": "projectplastic:microwaveoven"},
+        "dir=down,isactiv=true":  { "model": "projectplastic:microwaveoven1"},
+        "normal":{"model": "projectplastic:microwaveoven", "transform": "forge:default-block"}
+        
+    }
+}

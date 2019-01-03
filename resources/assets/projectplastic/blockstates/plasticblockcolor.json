@@ -1,0 +1,44 @@
+{
+    "forge_marker": 1,
+    "defaults":
+    {
+        "model": "projectplastic:plasticblockcolor"
+    },
+    "variants":
+    {
+        "meta=0": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic0"}},
+        "meta=1": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic1"}},
+        "meta=2": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic2"}},
+        "meta=3": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic3"}},
+        "meta=4": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic4"}},
+        "meta=5": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic5"}},
+        "meta=6": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic6"}},
+        "meta=7": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic7"}},
+        "meta=8": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic8"}},
+        "meta=9": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic9"}},
+        "meta=10": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic10"}},
+        "meta=11": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic11"}},
+        "meta=12": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic12"}},
+        "meta=13": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic13"}},
+        "meta=14": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic14"}},
+        "meta=15": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic15"}},
+        
+        "inv0": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic0"}, "transform": "forge:default-block"},
+        "inv1": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic1"}, "transform": "forge:default-block"},
+        "inv2": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic2"}, "transform": "forge:default-block"},
+        "inv3": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic3"}, "transform": "forge:default-block"},
+        "inv4": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic4"}, "transform": "forge:default-block"},
+        "inv5": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic5"}, "transform": "forge:default-block"},
+        "inv6": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic6"}, "transform": "forge:default-block"},
+        "inv7": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic7"}, "transform": "forge:default-block"},
+        "inv8": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic8"}, "transform": "forge:default-block"},
+        "inv9": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic9"}, "transform": "forge:default-block"},
+        "inv10": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic10"}, "transform": "forge:default-block"},
+        "inv11": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic11"}, "transform": "forge:default-block"},
+        "inv12": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic12"}, "transform": "forge:default-block"},
+        "inv13": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic13"}, "transform": "forge:default-block"},
+        "inv14": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic14"}, "transform": "forge:default-block"},
+        "inv15": {"model": "projectplastic:plasticblockcolor", "textures":{"all": "projectplastic:blocks/plainplastic15"}, "transform": "forge:default-block"}
+        
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PP",
+    "PP"
+  ],
+  "key":
+  {
+    "P":{"item": "projectplastic:resource", "data": 8}
+  },
+  "result":
+  {
+    "item": "projectplastic:gooeyplastic",
+    "count": 1
+  }
+}

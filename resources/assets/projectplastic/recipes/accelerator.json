@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RAR",
+    "ACA",
+    "RAR"
+  ],
+  "key":
+  {
+    "R":{"item": "projectplastic:resource", "data": 9},
+    "A":{"item": "minecraft:redstone"},
+    "C":{"item": "projectplastic:resource", "data": 5}
+  },
+  "result":
+  {
+    "item": "projectplastic:accelerator",
+    "count": 4
+  }
+}

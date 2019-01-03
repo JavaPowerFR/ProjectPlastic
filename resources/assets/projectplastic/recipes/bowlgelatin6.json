@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group":"projectplastic:resourcebowlgelatin",
+  "ingredients":
+  [
+    {"item": "minecraft:bowl"},
+    {"item": "minecraft:rotten_flesh"}
+  ],
+  "result":
+  {
+    "item": "projectplastic:resource",
+    "count": 1,
+    "data": 6
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OPO",
+    "S S"
+  ],
+  "key":
+  {
+    "P":{"item": "projectplastic:resource", "data": 5},
+    "S":{"item": "projectplastic:resource", "data": 9},
+    "O":{"item": "minecraft:obsidian"}
+  },
+  "result":
+  {
+    "item": "projectplastic:shockabsorbingboots",
+    "count": 1
+  }
+}

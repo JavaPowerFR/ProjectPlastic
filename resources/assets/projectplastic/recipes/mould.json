@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C C",
+    " C "
+  ],
+  "key":
+  {
+    "C":{"item": "minecraft:cobblestone"}
+  },
+  "result":
+  {
+    "item": "projectplastic:mould",
+    "count": 1,
+    "data": 0
+  }
+}

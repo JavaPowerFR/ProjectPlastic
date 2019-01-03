@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SFS",
+    "IRI",
+    "BBB"
+  ],
+  "key":
+  {
+    "B":{"item": "projectplastic:plasticblock"},
+    "I":{"item": "minecraft:iron_ingot"},
+    "R":{"item": "minecraft:repeater"},
+    "F":{"item": "projectplastic:resource", "data":12},
+    "S":{"item": "projectplastic:resource", "data":11}
+  },
+  "result":
+  {
+    "item": "projectplastic:resource",
+    "count": 1,
+    "data": 5
+  }
+}

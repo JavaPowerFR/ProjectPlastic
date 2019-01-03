@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ICI",
+    "PEP",
+    "IEI"
+  ],
+  "key":
+  {
+    "P":{"item": "projectplastic:plasticblock"},
+    "C":{"item": "projectplastic:resource", "data": 5},
+    "I":{"item": "minecraft:iron_ingot"},
+    "E":{"item": "projectplastic:extractingfurnace"}
+  },
+  "result":
+  {
+    "item": "projectplastic:microwaveextractingfurnace",
+    "count": 1
+  }
+}

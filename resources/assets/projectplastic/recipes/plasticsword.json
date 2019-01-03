@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P",
+    "P",
+    "S"
+  ],
+  "key":
+  {
+    "P":{"item": "projectplastic:resource", "data": 0},
+    "S":{"item": "projectplastic:resource", "data": 2}
+  },
+  "result":
+  {
+    "item": "projectplastic:plasticsword",
+    "count": 1
+  }
+}

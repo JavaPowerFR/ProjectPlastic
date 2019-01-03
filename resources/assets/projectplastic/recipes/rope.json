@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SI",
+    "PP",
+    "PP"
+  ],
+  "key":
+  {
+    "P":{"item": "projectplastic:resource", "data":12},
+    "S":{"item": "projectplastic:resource", "data":4},
+    "I":{"item": "minecraft:iron_ingot"}
+  },
+  "result":
+  {
+    "item": "projectplastic:rope",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "forge_marker": 1,
+    "defaults":
+    {
+        "model": "projectplastic:latexextractor"
+    },
+    "variants":
+    {
+        "facing=east": { "model": "projectplastic:latexextractor" },
+        "facing=south": { "model": "projectplastic:latexextractor", "y": 90 },
+        "facing=west": { "model": "projectplastic:latexextractor", "y": 180 },
+        "facing=north": { "model": "projectplastic:latexextractor", "y": 270 },
+        "facing=up": { "model": "projectplastic:latexextractor"},
+        "facing=down": { "model": "projectplastic:latexextractor"}
+    }
+}

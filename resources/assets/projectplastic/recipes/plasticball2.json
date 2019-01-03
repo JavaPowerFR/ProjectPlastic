@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"projectplastic:resourceball",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": [
+      {"item": "projectplastic:plasticblockcolor", "data": 0},
+      {"item": "projectplastic:plasticblockcolor", "data": 1},
+      {"item": "projectplastic:plasticblockcolor", "data": 2},
+      {"item": "projectplastic:plasticblockcolor", "data": 3},
+      {"item": "projectplastic:plasticblockcolor", "data": 4},
+      {"item": "projectplastic:plasticblockcolor", "data": 5},
+      {"item": "projectplastic:plasticblockcolor", "data": 6},
+      {"item": "projectplastic:plasticblockcolor", "data": 7},
+      {"item": "projectplastic:plasticblockcolor", "data": 8},
+      {"item": "projectplastic:plasticblockcolor", "data": 9},
+      {"item": "projectplastic:plasticblockcolor", "data": 10},
+      {"item": "projectplastic:plasticblockcolor", "data": 11},
+      {"item": "projectplastic:plasticblockcolor", "data": 12},
+      {"item": "projectplastic:plasticblockcolor", "data": 13},
+      {"item": "projectplastic:plasticblockcolor", "data": 14},
+      {"item": "projectplastic:plasticblockcolor", "data": 15}
+    ]
+  },
+  "result":
+  {
+    "item": "projectplastic:resource",
+    "count": 4,
+    "data": 0
+  }
+}

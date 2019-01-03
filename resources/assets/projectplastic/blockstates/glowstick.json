@@ -1,0 +1,16 @@
+{
+    "forge_marker": 1,
+    "defaults":
+    {
+        "model": "projectplastic:glowstick"
+    },
+    "variants":
+    {
+        "facing=east": { "model": "projectplastic:glowstick" },
+        "facing=south": { "model": "projectplastic:glowstick", "y": 90 },
+        "facing=west": { "model": "projectplastic:glowstick", "y": 180 },
+        "facing=north": { "model": "projectplastic:glowstick", "y": 270 },
+        "facing=up": { "model": "projectplastic:glowstick2"},
+        "facing=down": { "model": "projectplastic:glowstick2"}
+    }
+}

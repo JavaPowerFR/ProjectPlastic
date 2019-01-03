@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PP ",
+    "PS ",
+    " S "
+  ],
+  "key":
+  {
+    "P":{"item": "projectplastic:resource", "data": 0},
+    "S":{"item": "projectplastic:resource", "data": 2}
+  },
+  "result":
+  {
+    "item": "projectplastic:plasticaxe",
+    "count": 1
+  }
+}

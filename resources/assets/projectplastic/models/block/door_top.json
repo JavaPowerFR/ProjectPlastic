@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/door_top",
+    "textures": {
+        "bottom": "projectplastic:blocks/plexiglassdoor1",
+        "top": "projectplastic:blocks/plexiglassdoor0"
+    }
+}

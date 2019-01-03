@@ -1,0 +1,17 @@
+{
+    "forge_marker": 1,
+    "defaults":
+    {
+        "model": "projectplastic:plasticblockcolor",
+        "textures":{"all": "projectplastic:blocks/plainplastic"}
+    },
+    "variants":
+    {
+        "normal":
+        {
+            "model": "projectplastic:plasticblockcolor",
+            "textures":{"all": "projectplastic:blocks/plainplastic"},
+            "transform": "forge:default-block"
+        }
+    }
+}

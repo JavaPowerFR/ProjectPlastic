@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RCR",
+    "CEC",
+    "RCR"
+  ],
+  "key":
+  {
+    "R":{"item": "projectplastic:redstone_block"},
+    "C":{"item": "projectplastic:resource", "data": 5},
+    "E":{"item": "projectplastic:extractingfurnace"}
+  },
+  "result":
+  {
+    "item": "projectplastic:rfextractingfurnace",
+    "count": 1
+  }
+}

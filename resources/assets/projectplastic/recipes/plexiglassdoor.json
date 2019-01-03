@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PP",
+    "PP",
+    "PP"
+  ],
+  "key":
+  {
+    "P":{"item": "projectplastic:plexiglass"}
+  },
+  "result":
+  {
+    "item": "projectplastic:door",
+    "count": 3
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"projectplastic:plasticblockcolor",
+  "pattern": [
+    "PPP",
+    "PCP",
+    "PPP"
+  ],
+  "key":
+  {
+    "P":{"item": "projectplastic:plasticblock"},
+    "C":{"item": "minecraft:dye", "data": 10}
+  },
+  "result":
+  {
+    "item": "projectplastic:plasticblockcolor",
+    "count": 8,
+    "data": 5
+  }
+}

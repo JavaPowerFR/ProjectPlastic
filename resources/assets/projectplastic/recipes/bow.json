@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PS ",
+    "P S",
+    "PS "
+  ],
+  "key":
+  {
+    "P":{"item": "projectplastic:resource", "data": 4},
+    "S":{"item": "minecraft:stick"}
+  },
+  "result":
+  {
+    "item": "minecraft:bow",
+    "count": 1
+  }
+}

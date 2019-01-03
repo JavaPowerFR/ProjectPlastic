@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "S S",
+    "DPD"
+  ],
+  "key":
+  {
+    "P":{"item": "projectplastic:resource", "data": 5},
+    "S":{"item": "projectplastic:resource", "data": 4},
+    "D":{"item": "minecraft:diamond"}
+  },
+  "result":
+  {
+    "item": "projectplastic:nightvisiongoggles",
+    "count": 1
+  }
+}

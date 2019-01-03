@@ -1,0 +1,15 @@
+{
+    "forge_marker": 1,
+    "defaults":
+    {
+        "model": "projectplastic:accelerator"
+    },
+    "variants":
+    {
+        "normal":
+        {
+            "model": "projectplastic:accelerator",
+            "transform": "forge:default-block"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"projectplastic:plasticbottle",
+  "pattern": [
+    "  P",
+    " P ",
+    "P  "
+  ],
+  "key":
+  {
+    "P":{"item": "projectplastic:resource", "data":1}
+  },
+  "result":
+  {
+    "item": "projectplastic:plasticbottle",
+    "count": 1,
+    "data": 0
+  }
+}

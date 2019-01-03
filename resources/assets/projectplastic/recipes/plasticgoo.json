@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":
+  [
+    {"item": "projectplastic:gooeyplastic"}
+  ],
+  "result":
+  {
+    "item": "projectplastic:resource",
+    "count": 4,
+    "data": 8
+  }
+}

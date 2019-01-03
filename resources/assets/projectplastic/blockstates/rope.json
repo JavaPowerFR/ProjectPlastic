@@ -1,0 +1,20 @@
+{
+    "forge_marker": 1,
+    "defaults":
+    {
+        "model": "projectplastic:rope"
+    },
+    "variants":
+    {
+        "main=true":
+        {
+            "model": "projectplastic:rope",
+            "textures":{"all": "projectplastic:blocks/rope0"}
+        },
+        "main=false":
+        {
+            "model": "projectplastic:rope",
+            "textures":{"all": "projectplastic:blocks/rope1"}
+        }
+    }
+}
