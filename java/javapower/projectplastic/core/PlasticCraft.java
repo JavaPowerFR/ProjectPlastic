@@ -34,7 +34,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 *		email: cyril@famille-genin.fr
 *		creation date: 27/04/2018 (dd/mm/yyyy)
 *		creat at: Montigny Le Bretonneux France
-*		last modification: 20/12/2018 (dd/mm/yyyy)
+*		last modification: 09/01/2019 (dd/mm/yyyy)
 *		comment: RAS
 *		
 ***************************************************/
@@ -44,7 +44,7 @@ public class PlasticCraft
 {
     public static final String MODID = "projectplastic";
     public static final String NAME = "Project Plastic";
-    public static final String VERSION = "1.4";
+    public static final String VERSION = "1.5";
 	
     @Instance
     public static PlasticCraft INSTANCE;
